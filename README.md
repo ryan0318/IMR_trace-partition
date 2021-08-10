@@ -4,6 +4,7 @@ Turning CMR drive trace files into IMR-like drive trace files
 IMR_trace(partition version)
 
 How to run
+
 1.configure parameters in IMR_trace.h:
 
 -LBATOTAL: number of logical blocks
